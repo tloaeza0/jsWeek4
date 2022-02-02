@@ -43,11 +43,8 @@ console.log(checkIndex(num,6));
 
 //VERY HARD
 //
-var coins = [1,2,5];
-const coinsFun = (arr, x) =>{
-  
-}
-
+//make a function and then an for loop that would loop through the array to look for the total amount of that array
+// with the total amount you could then create multiple variables that would compare two inputs and try to find the total amount using less than operators
 
 
  

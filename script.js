@@ -14,6 +14,8 @@ const averageFunc = (arr) => {
 
 console.log(averageFunc(array));
 
+
+
 //MEDIUM
 let num = [4, 5, 6, 7, 0, 1, 2];
 
@@ -28,3 +30,24 @@ console.log(checkIndex(num,6));
 
 //HARD
 
+  document.querySelector('.button1').addEventListener("click", function(){
+    document.body.style.backgroundColor = 'red';
+  });
+  document.querySelector('.button2').addEventListener('click', function(){
+    document.body.style.backgroundColor = 'white';
+  })
+//tbh I dont think this is what was asked for but at least it does something
+
+  
+  
+
+//VERY HARD
+//
+var coins = [1,2,5];
+const coinsFun = (arr, x) =>{
+  
+}
+
+
+
+ 
